@@ -1,5 +1,5 @@
 // Code your solution in this file!
-const drivers = ['Antonia', 'Nuru', 'Amari', 'Mo'];
+const drivers = ['james', 'kimotho', 'fred', 'jay'];
 
 const returnFirstTwoDrivers = drivers => drivers.slice(0, 2);
 console.log(returnFirstTwoDrivers(drivers));
